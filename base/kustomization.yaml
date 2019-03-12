@@ -1,0 +1,10 @@
+kind: ""
+apiversion: ""
+resources:
+- Deployment-kubernetes-dashboard-kube-system.yaml
+- Role-kubernetes-dashboard-minimal-kube-system.yaml
+- RoleBinding-kubernetes-dashboard-minimal-kube-system.yaml
+- Secret-kubernetes-dashboard-certs-kube-system.yaml
+- Secret-kubernetes-dashboard-csrf-kube-system.yaml
+- Service-kubernetes-dashboard-kube-system.yaml
+- ServiceAccount-kubernetes-dashboard-kube-system.yaml

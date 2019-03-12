@@ -1,0 +1,16 @@
+{
+  "v1": {
+    "config": null,
+    "releaseName": "ship",
+    "upstream": "https://raw.githubusercontent.com/kubernetes/dashboard/master/aio/deploy/recommended/kubernetes-dashboard.yaml",
+    "contentSHA": "f647ded4d338a21685152156b5e659d85e1e9dd17561a2d4656d1f0cd3104750",
+    "lifecycle": {
+      "stepsCompleted": {
+        "kustomize": true,
+        "kustomize-intro": true,
+        "outro": true,
+        "render": true
+      }
+    }
+  }
+}
