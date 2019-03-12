@@ -1,0 +1,6 @@
+kind: ""
+apiversion: ""
+bases:
+- ../../base
+resources:
+- dashboard-admin.yaml
